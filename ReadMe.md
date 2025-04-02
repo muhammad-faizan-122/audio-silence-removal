@@ -77,7 +77,7 @@ The script allows customization through the following parameters:
 
 2. **Run the Script**:
    ```sh
-   python silence_removal.py
+   python silence_removal_strict.py
    ```
 
 3. **Output Files**:
