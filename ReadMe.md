@@ -1,4 +1,4 @@
-# Audio Chunking Pipeline
+# Audio Chunking and silence Removal Pipeline
 
 ## Overview
 This script processes an audio file by removing silence, splitting it into meaningful chunks, and ensuring each chunk does not exceed a predefined maximum duration. It is particularly useful for speech processing applications, where silence removal and chunking can improve transcription accuracy and processing efficiency.
